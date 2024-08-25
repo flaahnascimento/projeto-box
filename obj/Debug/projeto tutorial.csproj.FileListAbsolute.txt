@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto tutorial.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto_tutorial.Form1.resources
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto_tutorial.form2.resources
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto_tutorial.Form3.resources
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto_tutorial.Form4.resources
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto_tutorial.Form5.resources
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto_tutorial.Properties.Resources.resources
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto tutorial.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\projeto tutorial\bin\Debug\projeto tutorial.exe.config
+C:\Users\Aluno\Desktop\projeto tutorial\bin\Debug\projeto tutorial.exe
+C:\Users\Aluno\Desktop\projeto tutorial\bin\Debug\projeto tutorial.pdb
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto tutorial.exe
+C:\Users\Aluno\Desktop\projeto tutorial\obj\Debug\projeto tutorial.pdb
